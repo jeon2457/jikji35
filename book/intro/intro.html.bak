@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>동영상 인트로</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <div class="container">
+        <section class="hero">
+            <div class="heading">
+                <h1><span>with CodingWorks</span> HTML+CSS+JS Portfolio
+                Practical Publishing (Season 2)</h1>
+                <p>
+                HTML+CSS+JS Practical Portfolio (Season 2) is intermediate
+                publishing, and you will learn the basics of publishing for 
+                intermediate publishing skills by learning various practical
+                examples. In particular, through various parctical examples and the creation of a full responsive wevbite, I gained confidence in intermediate.
+                </p>
+            </div>
+            <video src="Forest.mp4" autoplay muted loop></video>
+        </section>
+        <section class="content">
+            <div class="inner">
+                <div>
+                    <h2>HTML</h2>
+                    <p>
+                    the Hyper text Mark  examples. In particular, through various parctical examples and the creation of a full responsive wevbite, I gained confidence in intermediate.
+                    </p>
+                </div>
+                
+                <div>
+                    <h2>CSS</h2>
+                    <p>
+                    CSS Hyper text Mark  examples. In particular, through various parctical examples and the creation of a full responsive wevbite, I gained confidence in intermediate.
+                    </p>
+                </div>
+                <div>
+                    <h2>jQuery</h2>
+                    <p>
+                    jQuery text Mark  examples. In particular, through various parctical examples and the creation of a full responsive wevbite, I gained confidence in intermediate.
+                    </p>
+                </div>
+            </div>
+        </section>
+    
+        
+    </body>
+  
+        
